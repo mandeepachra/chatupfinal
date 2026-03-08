@@ -14,7 +14,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "/chatupfinal/index.html",
   "display": "standalone",
   "theme_color": "#020617",
   "background_color": "#020617"
